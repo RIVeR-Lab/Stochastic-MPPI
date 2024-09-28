@@ -1,0 +1,9 @@
+numpy
+numba
+pandas
+scipy
+matplotlib
+torch
+gpytorch
+casadi
+cvxpy
