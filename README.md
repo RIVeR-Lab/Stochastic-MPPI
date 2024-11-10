@@ -57,6 +57,13 @@ python3 src/obstacle_avoidance.py
 If you find this code useful, please consider citing our papers:
 
 ```bibtex
+@article{trivedi2024data,
+  title={Data-Driven Sampling Based Stochastic MPC for Skid-Steer Mobile Robot Navigation},
+  author={Trivedi, Ananya and Prajapati, Sarvesh and Shirgaonkar, Anway and Zolotas, Mark and Padir, Taskin},
+  journal={arXiv preprint arXiv:2411.03289},
+  year={2024}
+}
+
 @inproceedings{trivedi2024probabilistic,
   title={A probabilistic motion model for skid-steer wheeled mobile robot navigation on off-road terrains},
   author={Trivedi, Ananya and Zolotas, Mark and Abbas, Adeeb and Prajapati, Sarvesh and Bazzi, Salah and Pad{\i}r, Ta{\c{s}}kin},
